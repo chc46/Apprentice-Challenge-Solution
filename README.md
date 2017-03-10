@@ -1,4 +1,4 @@
-# Apprentice-Challenge-Solution
+# Coding Challenge
 
 ## **BACKGROUND**
 
