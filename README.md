@@ -1,13 +1,13 @@
 # Apprentice-Challenge-Solution
 
-BACKGROUND
+## **BACKGROUND**
 
 My name is Christian Collier and welcome to my solution to the Apprentice Challenge!
 
 This repository contains two main components, a folder containing all of the header and implementation files, along with a Makefile to 
 run this program on the command line, and a sample input file of movies.
 
-INSTALLATION
+## **INSTALLATION**
 
 To install my solution program, download the contents of the folder Coding Challenge to your desktop, as well as the sample input file 
 MovieData.txt (if you have a particular input file of your own, then there is no need to download the sample I have provided).
@@ -29,7 +29,7 @@ where INPUT_FILE_NAME.txt is the input file of your choice. The program should t
 To install and run this on a Windows computer, it is better to do so using an IDE. Therefore, it is not necessary to download the Makefile
 only the .cpp and .h files. Try running this through that particular IDE and let me know if any errors are encountered.
 
-HOW TO RUN THE PROGRAM
+## **HOW TO RUN THE PROGRAM**
 
 This program is written in C++. Once the program is run, it will offer a brief description of what it does then it will read the movies in.
 NOTE: the read function for the file containing the movies reads in the first line and disregards it, as that first line should not contain
