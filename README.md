@@ -19,7 +19,7 @@ To do so, open the Terminal window and type the following commands first:
 
 ```
 cd desktop
-cd Coding Challenge
+cd FOLDER_NAME
 ```
 
 To compile the program, type the following command: ```make```
@@ -33,12 +33,10 @@ only the .cpp and .h files (and the txt if needed). Try running this through tha
 
 ## **HOW TO RUN THE PROGRAM**
 
-This program is written in C++. Once the program is run, it will offer a brief description of what it does then it will read the movies in.
-NOTE: the read function for the file containing the movies reads in the first line and disregards it, as that first line should not contain
-any data.  It's simply a heading as displayed in the sample.
+This program is written in C++. Once the program is compiled, it will offer a brief description of what it does then it will read the movies in from a particular file inputted on the command line. If no file is found or the filename is incorrect, the program will exit.
+NOTE: the read function for the file containing the movies reads in the first line and disregards it, as that first line should not contain any data.  It's simply a heading as displayed in the sample on the project description.
 
-Then the program will ask for a specific day of the week and date.  Assuming the input entered is correct, the program will then display
-the schedule of movies for that given day and date.
+Then the program will ask for a specific day of the week and date.  Assuming the input entered is correct (i.e. the day of the week is valid and the date is in the form MM/DD/YYYY), the program will then display the schedule of movies for that given day and date.
 
 
 If you have any questions or comments, please let me know and I will be happy to discuss.
